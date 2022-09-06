@@ -1,5 +1,2 @@
-==> 0-alias <==
 #!/bin/bash
-==> 0-alias <==
-#!/bin/bash
-#!/bin/bash
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
